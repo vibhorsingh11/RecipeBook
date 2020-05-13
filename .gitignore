@@ -9,6 +9,7 @@
 
 # dependencies
 /node_modules
+/src/environments
 
 # profiling files
 chrome-profiler-events.json
@@ -46,5 +47,5 @@ testem.log
 Thumbs.db
 
 # Environment API Key
-**/src/environments/environment.prod.ts
-**/src/environments/environment.ts
+# **/src/environments/environment.prod.ts
+# **/src/environments/environment.ts
